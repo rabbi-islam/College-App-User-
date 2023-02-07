@@ -11,6 +11,7 @@
 
 
     <color name="textColor">#3f3b3b</color>
+    <color name="darkColor">#313131</color>
     <color name="titleColor">#1b272c</color>
     <color name="grey">#828080</color>
     <color name="grey1">#4f4f4f</color>
